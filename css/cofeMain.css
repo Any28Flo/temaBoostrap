@@ -1,0 +1,23 @@
+*{
+  font-family: 'Pacifico', cursive;
+}
+.arriba{
+
+  background-color: #A9F0D1;
+  color: white;
+}
+body{
+  background-color: #FFF7F8;
+}
+.thumbnail img{
+
+  height: 250px;
+  width: 90%;
+}
+.margen{
+  margin-top: 20px;
+}
+footer{
+  background-color: #52FFB8;
+  height: 150px;
+}
